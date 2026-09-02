@@ -1,4 +1,4 @@
-# 🚀 Foundation Program Assignment - 1 | Apollo Level 2 Web Dev
+# Foundation Program Assignment - 1 | Apollo Level 2 Web Dev
 
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=javascript)](https://github.com)
 [![Course](https://img.shields.io/badge/Platform-Programming%20Hero-orange?style=for-the-badge&logo=codeforces)](https://web.programming-hero.com/)
@@ -56,3 +56,4 @@ All functions are written adhering strictly to the constraints:
 3. Test the functions by importing or running them in your terminal:
    ```bash
    node answer.js
+!!!THIS  REDME FILE IS BUILT WITH AI
