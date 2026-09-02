@@ -56,4 +56,4 @@ All functions are written adhering strictly to the constraints:
 3. Test the functions by importing or running them in your terminal:
    ```bash
    node answer.js
-!!!THIS  REDME FILE IS BUILT WITH AI
+!!!THIS  README FILE IS BUILT WITH AI
